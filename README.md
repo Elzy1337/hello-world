@@ -2,5 +2,4 @@
 Test Repository
 added another line
 or two
-so i can test out github quickly :D
-change
+so i can test out github quickly
